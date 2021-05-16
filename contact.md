@@ -4,7 +4,7 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Projektverantwortlicher
+Projektverantwortlicher...
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
