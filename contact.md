@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-layout: contact
+layout: page
 bodyClass: page-contact
 ---
 
