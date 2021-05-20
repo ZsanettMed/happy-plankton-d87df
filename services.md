@@ -1,6 +1,6 @@
 ---
 layout: services
-intro_image: images/Zeichenfläche 1.svg
+intro_image: images/UsabilityHubFactory_original.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 title: Models
