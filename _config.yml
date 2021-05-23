@@ -5,7 +5,7 @@ google_analytics_id: ''
 homepage:
   show_call_box: true
 logo:
-  mobile: images/logo/logo-mobile.svg
+  mobile: https://preview--happy-plankton-d87df.stackbit.dev/images/logo/logo-mobile.svg
   desktop_height: 36px
   desktop: https://preview--happy-plankton-d87df.stackbit.dev/images/Cupcake.svg
 footer:
