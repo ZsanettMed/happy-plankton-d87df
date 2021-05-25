@@ -7,8 +7,8 @@ homepage:
 logo:
   mobile: >-
     https://preview--happy-plankton-d87df.stackbit.dev/images/logo/logo-mobile.svg
-  desktop_height: 36px
-  desktop: https://preview--happy-plankton-d87df.stackbit.dev/images/logo/logo.svg
+  desktop_height: 48px
+  desktop: 'https://preview--happy-plankton-d87df.stackbit.dev/images/logo/logo.svg'
 footer:
   copyright_text: >-
     Free Jekyll theme by <a class="zerostatic"
