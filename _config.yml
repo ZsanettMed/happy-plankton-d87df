@@ -7,7 +7,7 @@ homepage:
 logo:
   mobile: >-
     https://preview--happy-plankton-d87df.stackbit.dev/images/logo/logo-mobile.svg
-  desktop_height: 48px
+  desktop_height: 62px
   desktop: 'https://preview--happy-plankton-d87df.stackbit.dev/images/logo/logo.svg'
 footer:
   copyright_text: >-
