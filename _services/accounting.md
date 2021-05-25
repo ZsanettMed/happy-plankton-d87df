@@ -5,9 +5,9 @@ featured: true
 weight: 1
 layout: service
 ---
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.![](/\_static/app-assets/smart-planet.svg)
+Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
-
+![](/\_static/app-assets/fabrik_model.svg)
 
 # Objectives
 
