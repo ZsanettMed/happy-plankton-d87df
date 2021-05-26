@@ -5,7 +5,7 @@ featured: true
 weight: 5
 layout: service
 ---
-https://preview--happy-plankton-d87df.stackbit.dev/_static/app-assets/fabrik_toppings.svg
+intro_image: 'https://preview--happy-plankton-d87df.stackbit.dev/_static/app-assets/fabrik_toppings.svg
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
