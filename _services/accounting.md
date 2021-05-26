@@ -9,7 +9,9 @@ Financial accounting (or financial accountancy) is the field of accounting conce
 
 ![](/\_static/app-assets/fabrik_model.svg)
 
-# Verzeichnisse 
+# INTERLIS MODELS
+
+Verzeichnisse
 
 [Interlis Models](https://models.interlis.ch/core/)
 
