@@ -14,10 +14,6 @@ nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
 petunt dempserat dixisse, pro raptae aut male?
 
-*   Dente reponere dixere referre excessitque seque
-*   Tacui si cui inde haec ubi trepidas
-*   Coniunx nulla aut
-
 
 ## METACONFIGS
 
