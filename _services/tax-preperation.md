@@ -5,6 +5,11 @@ featured: true
 weight: 6
 layout: service
 ---
+
+
+https://preview--happy-plankton-d87df.stackbit.dev/_static/app-assets/fabrik_catalogue.svg
+
+
 Verzeichnis der zu verfügbaren Kataloge.
 
 *   Nata perque
