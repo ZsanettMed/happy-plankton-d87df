@@ -8,7 +8,7 @@ intro_image: 'https://preview--happy-plankton-d87df.stackbit.dev/_static/app-ass
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
-In dieser Rubrik befinden sich die Verzeichnise **INTERLIS Modele** für die Tools wie zum Beispiel ModelBaker ![](/\_static/app-assets/beige-paprika.svg)
+In dieser Rubrik befinden sich die Verzeichnise **INTERLIS Modele** für die Tools wie zum Beispiel Model Baker ![](/\_static/app-assets/beige-paprika.svg)
 
 
 
