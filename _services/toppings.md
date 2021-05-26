@@ -13,7 +13,7 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.![](/\_static/app-assets/fabrik_toppings.svg)
 
-## Ne verba patulosque numen vix libet
+## TOPPINGS
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens *ferro nocere haud*, et Dulichium tui
