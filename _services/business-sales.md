@@ -4,6 +4,9 @@ date: '2018-11-28T15:15:26+10:00'
 featured: true
 weight: 3
 layout: service
+intro_image: 'https://preview--happy-plankton-d87df.stackbit.dev/_static/app-assets/fabrik_toppings.svg'
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 ---
 
 Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
