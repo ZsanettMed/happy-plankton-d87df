@@ -18,7 +18,7 @@ petunt dempserat dixisse, pro raptae aut male?
 *   Tacui si cui inde haec ubi trepidas
 *   Coniunx nulla aut
 
-## METACONFIGURATIONS
+## METACONFIGS
 
 Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
 non *tangere* tendens corpore sed. Sine genae ominibus cereris, pectebant tum
