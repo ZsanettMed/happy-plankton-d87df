@@ -7,4 +7,4 @@ intro_image: "https://preview--happy-plankton-d87df.stackbit.dev/images/illustra
 ---
 # UsabilityHub
 
-Eein Plattform
+Ein Plattform
