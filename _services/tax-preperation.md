@@ -5,8 +5,6 @@ featured: true
 weight: 6
 layout: service
 ---
-
-
 Verzeichnis der zu verfügbaren Kataloge.
 
 *   Nata perque
@@ -42,3 +40,7 @@ siccatque frondes.
 Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
 formosus servat potui. Luce ebur, pulcherrimus plus tradere! *Quam perque
 semper*?
+
+
+
+![](/\_static/app-assets/fabrik_catalogue.svg)
