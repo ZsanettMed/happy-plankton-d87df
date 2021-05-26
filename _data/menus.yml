@@ -1,14 +1,14 @@
 main:
-  - name: "Aktuelles"
+  - name: "Services"
     url: "/services/"
     weight: 2
-      - name: "Konzept"
-    url: "/about/"
-    weight: 3
-  - name: "Projektbeteiligte"
+  - name: "Team"
     url: "/team/"
+    weight: 3
+  - name: "About"
+    url: "/about/"
     weight: 4
-  - name: "Kontakt"
+  - name: "Contact"
     url: "/contact/"
     weight: 5
 
@@ -16,6 +16,6 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Kontakt"
+  - name: "Contact"
     url: "/contact/"
     weight: 2
