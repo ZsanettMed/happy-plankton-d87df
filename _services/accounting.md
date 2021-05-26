@@ -4,7 +4,7 @@ date: '2018-11-18T12:33:46+10:00'
 featured: true
 weight: 1
 layout: service
-intro_image: "https://preview--happy-plankton-d87dfstackbit.dev/images/illustrations/fabrik_vers2.svg"
+intro_image: "https://preview--happy-plankton-d87df.stackbit.dev/images/logo/logo.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
