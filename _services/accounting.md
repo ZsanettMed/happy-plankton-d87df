@@ -8,7 +8,7 @@ intro_image: 'https://preview--happy-plankton-d87df.stackbit.dev/_static/app-ass
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.![](/\_static/app-assets/beige-paprika.svg)
+In dieser Rubrik  **summary, analysis and reporting** of financial transactions related to a business.![](/\_static/app-assets/beige-paprika.svg)
 
 
 
