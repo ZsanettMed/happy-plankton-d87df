@@ -11,10 +11,6 @@ intro_image_hide_on_mobile: true
 
 Verzeichnis der zu verfügbaren Kataloge.
 
-*   Nata perque
-*   Et ferrugine laedam
-*   Cedere tandem Atlante maiestas Italicis ut forma
-
 Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
 precor facitote nubemque. Potuit Celadon Martem?
 
