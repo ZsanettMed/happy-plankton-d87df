@@ -9,10 +9,6 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-
-https://preview--happy-plankton-d87df.stackbit.dev/_static/app-assets/fabrik_catalogue.svg
-
-
 Verzeichnis der zu verfügbaren Kataloge.
 
 *   Nata perque
