@@ -9,6 +9,7 @@ $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #fff6f8;
 $steel: #5C5A5A;
+$header: #C69C6C; //braun
 
 // Links
 $link-color: $primary;
@@ -19,6 +20,9 @@ $link-hover-decoration: underline;
 // Fonts
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: 'Playfair Display', serif, -apple-system;
+
+//header
+$header-background-color: lighten($header, 40%);
 
 // Footer
 $footer-background-color: $primary;
