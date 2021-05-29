@@ -4,7 +4,8 @@ date: '2018-11-28T15:14:39+10:00'
 featured: true
 weight: 2
 layout: service
-intro_image: https://preview--happy-plankton-d87df.stackbit.dev/_static/app-assets/zahnrad_2.svg
+intro_image: >-
+  https://preview--happy-plankton-d87df.stackbit.dev/_static/app-assets/zahnrad_2.svg
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
@@ -51,9 +52,5 @@ habenas, ne dici Canenti.
 4.  Linguae pendent
 
 Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
-
-
-
-![](/\_static/app-assets/zahnrad\_2.svg)
+isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?![](/\_static/app-assets/zahnrad\_3.svg)
 
