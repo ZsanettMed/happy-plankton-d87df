@@ -54,4 +54,7 @@ habenas, ne dici Canenti.
 Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
 isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
 
-![](/\_static/app-assets/zahnrad.svg)
+
+
+![](/\_static/app-assets/zahnrad\_2.svg)
+
