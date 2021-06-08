@@ -9,7 +9,9 @@ intro_image: >-
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
-Für die verschiedene Geoinformationssysteme gibt es unterschiedliche Tools. 
+Für die verschiedene Geoinformationssysteme gibt es unterschiedliche Tools.
+
+
 
 # QGIS Model Baker
 
