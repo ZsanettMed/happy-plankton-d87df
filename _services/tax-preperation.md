@@ -11,8 +11,8 @@ intro_image_hide_on_mobile: true
 ---
 Für die verschiedene Geoinformationssysteme gibt es unterschiedliche Tools.
 
-Bereits auf Usabilityhub verfügbare Tools: 
+Bereits auf Usabilityhub verfügbare Tools:
 
-# QGIS Model Baker
+# [QGIS Model Baker](https://preview--happy-plankton-d87df.stackbit.dev/services/accounting/)
 
 # Anders Tool
