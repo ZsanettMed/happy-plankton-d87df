@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Modelb
 date: '2021-06-08'
 jobtitle: lorem-ipsum
 linkedinurl: lorem-ipsum
