@@ -38,14 +38,4 @@ retemptat *rexit generumque* fides.
 
 ## Statuunt nais inponere tamen duodena aemulus mille
 
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans *toto*, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1.  Induruit huc grave simili
-2.  Praecincti natos
-3.  Ad dedit parentem
 
