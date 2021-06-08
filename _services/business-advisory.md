@@ -48,7 +48,4 @@ habenas, ne dici Canenti.
 1.  Induruit huc grave simili
 2.  Praecincti natos
 3.  Ad dedit parentem
-4.  Linguae pendent
 
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?![](/\_static/app-assets/maroon-paprika.svg)
