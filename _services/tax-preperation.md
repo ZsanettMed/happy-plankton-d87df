@@ -13,6 +13,6 @@ Für die verschiedene Geoinformationssysteme gibt es unterschiedliche Tools.
 
 Bereits auf Usabilityhub verfügbare Tools:
 
-# [QGIS Model Baker](https://preview--happy-plankton-d87df.stackbit.dev/services/accounting/)
+# [QGIS Model Baker](https://preview--happy-plankton-d87df.stackbit.dev/home/codeeditor/workspace/modelbaker.md)
 
 # Anders Tool
