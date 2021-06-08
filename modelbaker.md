@@ -6,7 +6,7 @@ linkedinurl: lorem-ipsum
 Twitterhandle: lorem-ipsum
 draft: false
 featured: false
-weight: 0
+weight: 7
 promoted: false
 layout:
   label: team
