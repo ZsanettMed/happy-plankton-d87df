@@ -5,7 +5,7 @@ google_analytics_id: ''
 homepage:
   show_call_box: true
 logo:
-  mobile: images/majestic-mahogany.svg
+  mobile: images/logo/logo.svg
   desktop_height: 62px
   desktop: images/majestic-mahogany.svg
 footer:
