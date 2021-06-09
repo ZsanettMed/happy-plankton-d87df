@@ -14,10 +14,5 @@ Bereits auf Usabilityhub verfügbare Tools:
 
 # [QGIS Model Baker](https://app.stackbit.com/studio/609d87dfd488140017567639#/modelbaker)
 
-  <ul>
-    <li class="">
-      <a href="modelbaker">modelbaker</a>
-    </li>
-  <ul>
 
 # Anders Tool
