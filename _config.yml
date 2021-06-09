@@ -7,7 +7,7 @@ homepage:
 logo:
   mobile: images/logo/logo.svg
   desktop_height: 62px
-  desktop: images/majestic-mahogany.svg
+  desktop: images/logo/logo.svg
 footer:
   copyright_text: >-
     Free Jekyll theme by <a class="zerostatic"
