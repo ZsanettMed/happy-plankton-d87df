@@ -3,7 +3,7 @@ main:
     url: "/services/"
     weight: 2
   - name: "Projektbeteiligte"
-    url: "/team/"
+    url: "//"
     weight: 3
   - name: "Konzept"
     url: "/about/"
