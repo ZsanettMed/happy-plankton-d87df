@@ -4,5 +4,6 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Opengis.ch
+OPENGIS.ch
+https://www.opengis.ch/de/
 
