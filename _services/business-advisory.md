@@ -1,16 +1,14 @@
 ---
-title: Tools
+title: Konzept und Technische Details
 date: '2018-11-28T15:14:39+10:00'
 featured: true
 weight: 2
 layout: service
-intro_image: 'https://preview--happy-plankton-d87df.stackbit.dev/_static/app-assets/beige-paprika.svg'
+intro_image:
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
-Tools wie z.B Modelbaker
-
-## Inter pectore totidem
+# UsabILItyHub
 
 Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
 lassavit nihil oracula exiguo ligatis.
@@ -40,17 +38,4 @@ retemptat *rexit generumque* fides.
 
 ## Statuunt nais inponere tamen duodena aemulus mille
 
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans *toto*, carpere reclinis pietas
-habenas, ne dici Canenti.
 
-1.  Induruit huc grave simili
-2.  Praecincti natos
-3.  Ad dedit parentem
-4.  Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
