@@ -6,7 +6,7 @@ homepage:
   show_call_box: true
 logo:
   mobile: images/logo/logo.svg
-  desktop_height: 48px
+  desktop_height: 62px
   desktop: images/logo/logo.svg
 footer:
   copyright_text: >-
