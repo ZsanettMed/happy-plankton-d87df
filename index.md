@@ -2,7 +2,8 @@
 title: UsabilityHub
 layout: home
 description: >-
-Die Idee des UsabILIty Hub ist es, für Implementierte INTERLIS Modelle Zusatzinformationen automatisch übers Web zu empfangen.
+  Jekyll Serif contains content types for a typical business website. The theme
+  is fully responsive, blazing fast and artfully illustrated.
 intro_image: images/spectacular-mint.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
