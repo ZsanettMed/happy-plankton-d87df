@@ -8,7 +8,5 @@ intro_image: images/illustrations/fabrik.svg
 
 ### QGIS Model Baker
 
-### ![](/\_static/app-assets/fabrik.svg)
-
 *   Technische Umsetzung
 *   BENUTZERHANDBUCH
