@@ -5,8 +5,7 @@ google_analytics_id: ''
 homepage:
   show_call_box: true
 logo:
-  mobile: >-
-    https://preview--happy-plankton-d87df.stackbit.dev/images/logo/logo-mobile.svg
+  mobile: images/majestic-mahogany.svg
   desktop_height: 62px
   desktop: images/majestic-mahogany.svg
 footer:
