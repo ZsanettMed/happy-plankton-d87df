@@ -1,16 +1,3 @@
----
-title: Model Baker
-date: '2021-06-08'
-linkedinurl: lorem-ipsum
-Twitterhandle: lorem-ipsum
-draft: false
-featured: false
-weight: 7
-promoted: false
-layout:
-  label: team
-  value: team
----
 ## Model Baker 
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
