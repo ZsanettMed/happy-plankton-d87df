@@ -3,7 +3,6 @@ title: UsabilityHub
 layout: home
 description: >-
 Die Idee des UsabILIty Hub ist es, für Implementierte INTERLIS Modelle Zusatzinformationen automatisch übers Web zu empfangen.
-
 intro_image: images/spectacular-mint.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
