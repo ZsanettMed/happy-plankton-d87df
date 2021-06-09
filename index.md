@@ -10,11 +10,6 @@ intro_image_hide_on_mobile: true
 ---
 # UsabilityHub
 
-Konzeption und Aufbau eines generischen Hubs für die
-verbesserte Anwendbarkeit der modellbasierten Datenerfassung.
-
-The idea of the UsabILItyHub is to receive meta data like ili2db settings, layer styles and orders etc. automatically over the web.
-
-Like we can now receive models by connecting the ilimodels.xml of [http://models.interlis.ch](http://models.interlis.ch/) and with it's ilisite.xml many other repositories, we will be able to get this meta data with the file ilidata.xml on the UsabILItyHub
+Die Idee des UsabILIty Hub ist es, für Implementierte INTERLIS Modelle Zusatzinformationen automatisch übers Web zu empfangen. So wie wir jetzt Modelle durch die Anbindung der Datei ilimodels.xml von http://models.interlis.ch - und mit der Datei ilisite.xml die Modelle vieler anderen Repositories - erhalten können, können wir die Zusatzinformationen mit der Datei ilidata.xml auf dem UsabILIty Hub (derzeit https://models.opengis.ch) - und mit der Datei ilisite.xml die Modelle vieler anderen Repositories - erhalten.
 
 ![](/\_static/app-assets/Zahnrad_hub_original_menschen.svg)
