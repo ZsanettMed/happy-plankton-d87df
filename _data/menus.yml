@@ -1,6 +1,6 @@
 main:
   - name: "ilidata.xml"
-    url: "/services/accounting"
+    url: "/services/ilidata"
     weight: 2
   - name: "Projektbeteiligte"
     url: "//"
