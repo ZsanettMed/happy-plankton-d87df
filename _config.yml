@@ -5,10 +5,9 @@ google_analytics_id: ''
 homepage:
   show_call_box: true
 logo:
-  mobile: >-
-    https://preview--happy-plankton-d87df.stackbit.dev/images/logo/logo-mobile.svg
+  mobile: images/logo/logo.svg
   desktop_height: 62px
-  desktop: images/logo.svg
+  desktop: images/logo/logo.svg
 footer:
   copyright_text: >-
     Free Jekyll theme by <a class="zerostatic"

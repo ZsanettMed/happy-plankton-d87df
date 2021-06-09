@@ -1,20 +1,11 @@
 ---
-title: Model Baker
-date: '2021-06-08'
-jobtitle: lorem-ipsum
-linkedinurl: lorem-ipsum
-Twitterhandle: lorem-ipsum
-draft: false
-featured: false
-weight: 7
-promoted: false
-layout:
-  label: team
-  value: team
+layout: default_2
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
+title: Fabrik
+intro_image: images/illustrations/fabrik.svg
 ---
-## Model Baker 
+## QGIS Model Baker
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-*   Lorem ipsum
-*   dolor sit amet
+*   Technische Umsetzung
+*   BENUTZERHANDBUCH

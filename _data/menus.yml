@@ -1,9 +1,9 @@
 main:
-  - name: "Aktuelles"
-    url: "/services/"
+  - name: "ilidata.xml"
+    url: "/services/ilidata"
     weight: 2
   - name: "Projektbeteiligte"
-    url: "/team/"
+    url: "//"
     weight: 3
   - name: "Konzept"
     url: "/about/"
