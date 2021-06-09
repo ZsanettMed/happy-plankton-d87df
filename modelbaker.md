@@ -1,7 +1,6 @@
 ---
 title: Model Baker
 date: '2021-06-08'
-jobtitle: lorem-ipsum
 linkedinurl: lorem-ipsum
 Twitterhandle: lorem-ipsum
 draft: false
