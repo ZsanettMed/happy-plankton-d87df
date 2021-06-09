@@ -12,7 +12,7 @@ Für die verschiedene Geoinformationssysteme gibt es unterschiedliche Tools.
 
 Bereits auf Usabilityhub verfügbare Tools:
 
-# [QGIS Model Baker](https://app.stackbit.com/studio/609d87dfd488140017567639#/modelbaker)
+# [QGIS Model Baker](https://app.stackbit.com/studio/609d87dfd488140017567639#/services/modelbaker)
 
   <ul>
     <li class="">
