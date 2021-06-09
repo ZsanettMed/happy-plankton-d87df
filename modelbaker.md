@@ -5,6 +5,7 @@ intro_image_hide_on_mobile: false
 title: Fabrik
 intro_image: images/Zahnrad_hub_original_menschen.svg
 ---
+
 ### QGIS Model Baker
 
 ### ![](/\_static/app-assets/fabrik.svg)
