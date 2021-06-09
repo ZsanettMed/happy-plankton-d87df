@@ -1,13 +1,9 @@
 ---
-title: lorem-ipsum
-date: '2021-06-09'
-layout:
-  label: page
-  value: page
-menu:
-  label: Main Menu
-  value: main
-bodyClass: lorem-ipsum
+layout: services
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
+title: Fabrik
+intro_image: images/Zahnrad_hub_original_menschen.svg
 ---
 ### QGIS Model Baker
 
