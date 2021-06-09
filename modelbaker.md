@@ -3,7 +3,7 @@ layout: services
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 title: Fabrik
-intro_image: illustrations/fabrik.svg
+intro_image: images/illustrations/fabrik.svg
 ---
 
 ### QGIS Model Baker
