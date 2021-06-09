@@ -5,8 +5,7 @@ intro_image_hide_on_mobile: false
 title: Fabrik
 intro_image: images/illustrations/fabrik.svg
 ---
-
-### QGIS Model Baker
+## QGIS Model Baker
 
 *   Technische Umsetzung
 *   BENUTZERHANDBUCH
