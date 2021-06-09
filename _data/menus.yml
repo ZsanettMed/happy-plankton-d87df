@@ -1,5 +1,5 @@
 main:
-  - name: "Aktuelles"
+  - name: "ilidata.xml"
     url: "/services/"
     weight: 2
   - name: "Projektbeteiligte"
