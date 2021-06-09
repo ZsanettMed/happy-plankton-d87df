@@ -4,4 +4,5 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Projektverantwortlicher...
+Opengis.ch
+
