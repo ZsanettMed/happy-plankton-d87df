@@ -8,4 +8,4 @@ intro_image: images/illustrations/fabrik.svg
 ## QGIS Model Baker
 
 *   Technische Umsetzung
-*   BENUTZERHANDBUCH
+*   Benutzerhandbuch
