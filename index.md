@@ -3,7 +3,7 @@ title: UsabilityHub
 layout: home
 description: UsabILItyHub
 intro_image: images/spectacular-mint.svg
-intro_image_absolute: false
+intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 # UsabILItyHub
